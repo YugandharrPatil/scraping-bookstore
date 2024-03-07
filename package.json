@@ -1,0 +1,22 @@
+{
+	"name": "puppeteer",
+	"version": "1.0.0",
+	"description": "",
+	"main": "main.ts",
+	"scripts": {
+		"dev": "tsx main.ts"
+	},
+	"keywords": [],
+	"type": "module",
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@types/node": "^20.11.25",
+		"ts-node": "^10.9.2",
+		"tsx": "^4.7.1",
+		"typescript": "^5.4.2"
+	},
+	"dependencies": {
+		"puppeteer": "^22.4.0"
+	}
+}
